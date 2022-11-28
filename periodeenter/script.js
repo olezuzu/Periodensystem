@@ -92,7 +92,7 @@ function main() {
         }
     }
     if (E === 1){
-        alert("Ole")
+        window.open("../easteregg/", "_blank");
         E = 0;
     }
 }
